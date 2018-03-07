@@ -1,0 +1,1 @@
+# Chuwi-Hi10-kernel
