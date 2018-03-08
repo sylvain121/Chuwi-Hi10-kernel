@@ -1762,7 +1762,7 @@
 [  144.941001] pmc_atom: 17 - SATA in SC is in D0 prior to sleep
 [  144.941006] pmc_atom: 31 - LPSS2_F7_I2C7 in SC is in D0 prior to sleep
 [  144.941010] pmc_atom: 32 - SMB in SC is in D0 prior to sleep
-[  144.941045] ACPI: suspend to mwait
+:/[  144.941045] ACPI: suspend to mwait
 [  148.691265] ACPI: resume from mwait
 [  148.691867] pmc_atom: pmc: wakeup status[4001]
 [  148.691918] Suspended for 4.000 seconds
