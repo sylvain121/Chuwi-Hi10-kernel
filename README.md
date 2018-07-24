@@ -4,6 +4,7 @@
 
 - [x] CherryTrail CPU support
 - [x] Intel GPU
+- [ ] intel i2c driver
 - [ ] icn85xx touchscreen
 - [ ] ov2680b
 - [ ] ov2680
